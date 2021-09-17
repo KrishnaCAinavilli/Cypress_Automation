@@ -1,0 +1,22 @@
+{
+  "name": "cypress_automation-1",
+  "version": "1.0.0",
+  "description": "Cypress Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrishnaCAinavilli/Cypress_Automation.git"
+  },
+  "author": "KrishnaCAinavilli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrishnaCAinavilli/Cypress_Automation/issues"
+  },
+  "homepage": "https://github.com/KrishnaCAinavilli/Cypress_Automation#readme",
+  "devDependencies": {
+    "cypress": "^8.4.0"
+  }
+}
