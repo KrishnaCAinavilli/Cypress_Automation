@@ -10,3 +10,4 @@ Create a Folder and open the folder in Vscode editor.
 Open the terminal navigate to the folder and run the command npm init 
 You will notice that package.json has been created 
 next is to install Cypress run the command 
+npm install cypress --save-dev
